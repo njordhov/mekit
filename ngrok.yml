@@ -1,0 +1,9 @@
+tunnels:
+  server:
+    proto: http
+    addr: 5000
+    bind_tls: false
+  figwheel:
+    proto: http
+    addr: 3449
+    bind_tls: false

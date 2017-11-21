@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding:0;
+}
+
+#canvas {
+    font-size: larger;
+    margin: 0;
+    padding: 0;
+}
